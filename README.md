@@ -7,4 +7,4 @@ It can encrypt and decrypt any kind of text.
 2. Then, go to the locationn where your repository is located using terminal.
 3. Then, download the required packages and libraries which are needed for the tool to run.
 4. Now, in the terminal run the python file in that folder using "python Text_Encryptor_And_Decryptor.py" command.
-5. Your Password-Strength-Checker-Tool is now started.
+5. Your Text Encryptor And Decryptor Tool is now started.
